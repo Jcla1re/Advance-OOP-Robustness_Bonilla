@@ -4,11 +4,14 @@ Prelim Activity 02: Advanced Object-Oriented Programming and Robustness
 by: Jasmin Claire C. Bonilla
 
 
+
 **Project Overview**
 
 This project is a Fleet Management System developed for a C# Console Application. The goal of the application is to calculate the remaining travel range for different types of transit vehicles (Electric Buses and Gas-Powered Vans) while ensuring system robustness through strict data validation and exception handling.
 
 The project demonstrates the transition from basic coding to Software Architecture by implementing the four pillars of Object-Oriented Programming (OOP).
+
+
 
 **Features**
 
@@ -19,6 +22,8 @@ Automated Range Calculation: Different mathematical logic for Battery (%) vs. Fu
 Safety Alerts: Automated system exceptions if energy levels drop below a 5% safety threshold.
 
 Input Protection: Prevents the entry of negative values or invalid characters.
+
+
 
 **OOP Architecture**
 
